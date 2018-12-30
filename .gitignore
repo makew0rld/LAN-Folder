@@ -1,0 +1,6 @@
+*.pyc
+uuid
+shared-folder/*
+old-files/*
+default-files/*
+log/*
